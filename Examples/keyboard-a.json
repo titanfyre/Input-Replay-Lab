@@ -1,0 +1,25 @@
+{
+    "schema":  1,
+    "name":  "A key pulse",
+    "type":  "keyboard",
+    "events":  [
+                   {
+                       "flags":  0,
+                       "data":  0,
+                       "code":  30,
+                       "x":  0,
+                       "at_us":  0,
+                       "buttons":  0,
+                       "y":  0
+                   },
+                   {
+                       "flags":  1,
+                       "data":  0,
+                       "code":  30,
+                       "x":  0,
+                       "at_us":  100000,
+                       "buttons":  0,
+                       "y":  0
+                   }
+               ]
+}

@@ -1,0 +1,7 @@
+/obj/
+/dist/
+/Dependencies/
+*.pdb
+*.ilk
+.vs/
+*.exe

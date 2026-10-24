@@ -1,0 +1,43 @@
+{
+    "schema":  1,
+    "name":  "Mouse square",
+    "type":  "mouse",
+    "events":  [
+                   {
+                       "flags":  0,
+                       "data":  0,
+                       "code":  0,
+                       "x":  100,
+                       "at_us":  0,
+                       "buttons":  0,
+                       "y":  0
+                   },
+                   {
+                       "flags":  0,
+                       "data":  0,
+                       "code":  0,
+                       "x":  0,
+                       "at_us":  200000,
+                       "buttons":  0,
+                       "y":  100
+                   },
+                   {
+                       "flags":  0,
+                       "data":  0,
+                       "code":  0,
+                       "x":  -100,
+                       "at_us":  400000,
+                       "buttons":  0,
+                       "y":  0
+                   },
+                   {
+                       "flags":  0,
+                       "data":  0,
+                       "code":  0,
+                       "x":  0,
+                       "at_us":  600000,
+                       "buttons":  0,
+                       "y":  -100
+                   }
+               ]
+}
