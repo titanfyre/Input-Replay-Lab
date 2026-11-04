@@ -39,9 +39,15 @@ Recordings are bounded to 100000 events and one hour, with strict JSON property/
 
 The bundled **Microsoft-signed demo driver** permits one hour per Windows kernel boot, shared with other applications using that driver. Windows Restart renews the demo allowance. Application/installer EXEs have their own signature status; Microsoft driver signing does not sign this app.
 
-Application source is MIT licensed with no application-layer paywall. The paid offering is the unrestricted driver plus optional OEM integration/support. Add **`titancsa`** on Discord for a production bundle; activate its driver using the supplied production activation utility. Production builds accept a private SDK via `-SdkDirectory`. No customer key, private SDK, server source or kernel source is included in the public repository.
+Application source is MIT licensed with no application-layer paywall. The paid offering is the unrestricted driver plus optional OEM integration/support. Add **`titancsa`** on Discord for a production bundle; activate its driver using the supplied production activation utility. Production builds accept a private SDK via `-SdkDirectory`. No customer key, private production SDK, activation-server source or full/commercial kernel implementation is included in the public repository.
 
 ## Build and verify
+
+The matching Interceptor-Keyboard-Mouse demo driver source is available; see
+[driver/README.md](driver/README.md) for build instructions and separate
+evaluation-source terms. Those terms apply to Titan-authored driver code. Third-party
+source licenses and existing application/SDK licenses remain applicable. Full/commercial
+implementation and private signing or activation material are excluded.
 
 Visual Studio 2022 C++ tools, Windows SDK and CMake are required:
 
