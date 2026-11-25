@@ -3,7 +3,11 @@
 <!-- simple-start:start -->
 Record and replay your own keyboard or mouse actions for a test.
 
-**Start here.** Open the app, select a device and try a short recording.
+[First steps](#first-steps) · [Develop](#build-and-verify) · [Maintain](https://github.com/TitanCSA/sdk-packages/blob/main/CONTRIBUTING.md)
+
+## First steps
+
+Open the app, select a device and try a short recording.
 <!-- simple-start:end -->
 
 <!-- full-version-contact:start -->
