@@ -1,5 +1,15 @@
 # Input Replay Lab
 
+<!-- full-version-contact:start -->
+> [!IMPORTANT]
+> **Get the version without the one-hour demo limit**
+>
+> **Discord · `titancsa`**. Open [Discord](https://discord.com/app), choose **Friends → Add Friend**, enter **`titancsa`** and send a message.
+> Mention **Input-Replay-Lab** and ask for the full **Interceptor Keyboard & Mouse** driver. TitanCSA will share the purchase details privately.
+>
+> **FR · Version sans la limite d’une heure.** Ajoute **`titancsa`** sur Discord et envoie le nom du projet. Le lien d’achat est communiqué en privé.
+<!-- full-version-contact:end -->
+
 **Record one selected keyboard or mouse, inspect its event timeline, and replay it through the driver** for repeatable Windows application QA. Native C++17 interface powered by [Interceptor Keyboard & Mouse](https://github.com/TitanCSA/Interceptor-Keyboard-Mouse).
 
 ![Input Replay Lab](docs/app.png)
@@ -54,13 +64,4 @@ For lawful QA, accessibility and software development. Users are responsible for
 
 ## Commercial integration and support
 
-<!-- full-version-contact:start -->
-> [!IMPORTANT]
-> **Get the full driver version without demo restrictions**
->
-> **Discord username: `titancsa`**
->
-> Open Discord, choose **Friends > Add Friend**, enter **`titancsa`**, then send a direct message. Ask for the **full driver version without the demo time limit**, and mention **Input Replay Lab**.
->
-> The demo limit belongs to **Interceptor Keyboard & Mouse**, the driver used by this project. Ask for pricing and the appropriate license / activation instructions; the application or wrapper source keeps its existing license.
-<!-- full-version-contact:end -->
+
